@@ -25,7 +25,7 @@ function setup() {
 let ele;
 function playBgAudio() {
 
-  ele = createAudio('assets/bigphone.mp3');
+  ele = createAudio('https://yyan168.github.io/p3brick/assets/bigphone.mp3');
   ele.loop()
 }
 
